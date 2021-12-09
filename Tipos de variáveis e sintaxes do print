@@ -1,0 +1,22 @@
+# Aqui explico como funciona os tipos de variáveis e as formas que podemos escrever as sintaxes dos print.
+
+
+n1 = int(input('Digite o primeiro número:'))
+n2 = int(input('Digite o segundo número:'))
+s = n1 + n2
+#print('A soma vale', s) essa sintaxe do print também pode ser escrita assim ou das outras formas representadas logo abaixo:
+#print('A soma vale {}'.format(s)) / O (s) nessa sintaxe representa o que vai ser exibido dentro da máscara {}.
+print('A soma entre {0} e {1} vale {2}.'.format(n1, n2, s))
+#Pode-se usar essa forma de sintaxe. Dessa forma o método .format irá representar as máscaras {}.
+
+#Em Python temos os tipos primitivos:
+
+# int- que significa os números inteiros que podem ser positivos ou negativos;
+# float- que significa os números de pontos flutuantes ou números reais; 
+# bool- que significa os valores lógicos ou boleanos que são o True(verdadeiro) False(falso);
+# str- que significa os valores caracteres ou string, ou seja, são as palavras e números que estão dentro das aspas.
+
+#No Python temos que colocar o tipo da variável, pois se não pôr o tipo da variável,.. 
+#o soma entre dois números serão concatenados, ou seja, se eu digitar o número 3 e o 4 será mostrado na tela o número 34.
+#Deve forma deve-se sempre colocar o tipo da variável para uma soma entre dois números.
+
