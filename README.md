@@ -1,7 +1,7 @@
 # Estudos-Python
 Projeto que explico a Linguagem Python.
 
-# Olá, este projeto ensina você a linguagem Ptython.
+# Olá, este projeto explica para você a linguagem Ptython.
 
 nome = input('Digite o seu nome:')
 
