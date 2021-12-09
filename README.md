@@ -21,6 +21,6 @@ nome = input('Digite o seu nome:')
 
 #A função print informa o que será exibido na tela para o usuário.
 
-#O .format é um método de fromatação de uma string no Python.
+#O .format é um método de formatação de uma string no Python.
 
 print('Seja bem-vindo(a), {}!'.format(nome))
