@@ -1,4 +1,4 @@
-# Aqui explico como funciona os tipos de variáveis e as formas que podemos escrever as sintaxes dos print.
+# Olá, aqui eu explico como funciona os tipos de variáveis e as formas que podemos escrever as sintaxes dos print.
 
 
 n1 = int(input('Digite o primeiro número:'))
