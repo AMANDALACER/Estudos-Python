@@ -7,9 +7,9 @@ nome = input('Digite o seu nome:')
 
 #Quando coloca o (#) o Python reconhece como um comentário e com isso ele desconsidera os comentários. Os comentários não aparecem na exibição do programa para o usuário.
 
-#As aspas devem ser fechadas toda vez que forem abertas, pois o conteúdo dentro das aspas representam o texto que irá aparecer na tela do usuário.
+#As aspas devem ser fechadas toda vez que forem abertas, pois o conteúdo dentro das aspas representam o texto ou números que irá aparecer na tela do usuário.
 
-#Os Parênteses devem ser fechados toda vez que forem abertos. Dentro do Parêntece se coloca o texto que irá sair na tela do usuário
+#Os Parênteses devem ser fechados toda vez que forem abertos. Dentro do Parêntece se coloca o texto ou números que irá sair na tela do usuário
 
 #As variáveis são utilizadas para amarzenar valores e para dar nomes a uma área da memória do computador onde armazenamos os dados.
 
