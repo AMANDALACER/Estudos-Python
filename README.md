@@ -1,5 +1,5 @@
-# Ensinando-Python
-Projeto que ensino a Linguagem Python.
+# Estudos-Python
+Projeto que explico a Linguagem Python.
 
 # Olá, este projeto ensina você a linguagem Ptython.
 
