@@ -15,7 +15,7 @@ nome = input('Digite o seu nome:')
 
 #Na criação de uma variável utilizamos o símbolo de igualdade (=) entre o nome do compartimento e os valores que queremos armazenar.
 
-#O input significa basicamnte "entrada" em inglês, ou seja, o input representa a entrada de dados. Nesse caso, o input aguarda que o usuário digite algo no teclado.
+#O input significa basicamente "entrada" em inglês, ou seja, o input representa a entrada de dados. Nesse caso, o input aguarda que o usuário digite algo no teclado.
 
 #O print deve ser escrito com a letra P minúscula, pois ao escrever a letra P maiúscula ocorre um erro no programa Python.
 
