@@ -1,0 +1,20 @@
+#Olá, aqui eu explico um pouco sobre os métodos em Python.
+
+digalgo = input('Digite algo:')
+print('O tipo desse valor é', type(digalgo))
+#este método é usado para verificar se algo que foi digitado é somente do tipo string.
+print('Só tem espaços?', a.isspace(digalgo))
+#este método é usado para verificar se algo que foi digitado tem somente tem espaços.
+print('É um número?', a.isnumeric(digalgo))
+#este método é usado para verificar se algo que foi digitado é do tipo númererico.
+print('É alfabético?', a.isalpha(digalgo))
+#este método é usado para verificar se algo que foi digitado é do tipo alfabético.
+print('É alfanúmerico?', a.isalnum(digalgo))
+#este método é usado para verificar se algo que foi digitado é do tipo alfabético ou númerico.
+print('Está em maiúsculas?', a.isupper(digalgo))
+#este método é usado para verificar se algo que foi digitado está com letras maiúscula.
+print('Está em minúsculas?', a.islower(digalgo))
+#este método é usado para verificar se algo que fou digitado está com letras munúsculas. 
+print('Está capitalizado?', a.istitle(digalgo))
+#este método é usado para verificar se a palavra está capitalizada. Exemplo:A palavra Python.
+
