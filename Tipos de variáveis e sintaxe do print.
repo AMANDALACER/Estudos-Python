@@ -1,4 +1,4 @@
-# Olá, aqui eu explico como funciona os tipos de variáveis e as formas que podemos escrever as sintaxes dos print.
+# Olá, aqui eu explico como funciona os tipos de variáveis e as formas que podemos escrever a sintaxe do print.
 
 
 n1 = int(input('Digite o primeiro número:'))
@@ -9,7 +9,7 @@ s = n1 + n2
 print('A soma entre {0} e {1} vale {2}.'.format(n1, n2, s))
 #Pode-se usar essa forma de sintaxe. Dessa forma o método .format irá representar as máscaras {}.
 
-#Em Python temos os tipos primitivos:
+#Em Python temos os tipos primitivos de variáveis:
 
 # int- que significa os números inteiros que podem ser positivos ou negativos;
 # float- que significa os números de pontos flutuantes ou números reais; 
