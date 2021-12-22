@@ -4,9 +4,9 @@
 #Como utilizar o if(SE) e o else(SENÃO).
 
 nome = str(input('Qual é o seu nome: '))
-if nome == 'Gustavo':    #O If é o SE em inglês.
+if nome == 'Gustavo':    #O If é o SE em português.
     print('Que nome lindo você tem!')
-else:      #O else é o SENÃO em inglês.
+else:      #O else é o SENÃO em português.
     print('Seu nome é tão normal')
 print('Bom dia, {}'.format(nome))
 
