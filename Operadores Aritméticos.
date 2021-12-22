@@ -1,0 +1,49 @@
+# Olá, aqui eu explico como usar os Operadores Aritméticos na Linguagem Python.
+
+dig_n1 = float(input('Digite o primeiro número:'))
+dig_n2 = float(input('Digite o segundo número:'))
+soma = dig_n1 + dig_n2
+print('A soma de adição entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador + é a soma de Adição.
+
+dig_n1 = float(input('Digite o primeiro número:'))
+dig_n2 = float(input('Digite o segundo número:'))
+soma = dig_n1 - dig_n2
+print('A soma de subtração entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador - é a soma de Subtração.
+
+dig_n1 = float(input('Digite o primeiro número:'))
+dig_n2 = float(input('Digite o segundo número:'))
+soma = dig_n1 * dig_n2
+print('A soma de multiplicação entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador * é a soma de Multiplicação
+
+dig_n1 = float(input('Digite o primeiro número:'))
+dig_n2 = float(input('Digite o segundo número:'))
+soma = dig_n1 / dig_n2
+print('A soma de divisão entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador / é a soma de Divisão (com resultado fracionário);
+
+dig_n1 = float(input('Digite o primeiro número:'))
+dig_n2 = float(input('Digite o segundo número:'))
+soma = dig_n1 % dig_n2
+print('A soma do resto da divisão entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador % é o resto da soma;
+
+dig_n1 = int(input('Digite o primeiro número:'))
+dig_n2 = int(input('Digite o segundo número:'))
+soma = dig_n1 // dig_n2
+print('A soma de divisão inteira entre os números {} e {} vale {}'.format(dig_n1, dig_n2, soma))
+#o operador // é a soma de Divisão (com resultado inteiro);
+
+dig_n1 = int(input('Digite o primeiro número:'))
+dig_n2 = int(input('Digite o segundo número:'))
+soma = dig_n1 ** dig_n2
+print('A soma da potência entre os números  {} elevado a {} vale {}'.format(dig_n1, dig_n2, soma))
+#O operador ** é a Exponenciação ou Potenciação.
+
+#A ordem de precedência é muito importante, veja abaixo:
+#1° resolva a soma que está dentro do parênteses ()
+#2º resolva a soma das potências **
+#3º resolva a soma de *(multiplicação) /(divisão) //(divisão inteira) %(resto da divisão)
+#4º por último resolvemos a +(adição) e a -(subtração).
