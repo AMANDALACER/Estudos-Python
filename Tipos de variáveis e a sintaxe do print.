@@ -16,7 +16,7 @@ print('A soma entre {0} e {1} vale {2}.'.format(n1, n2, s))
 # bool- que significa os valores lógicos ou boleanos que são o True(verdadeiro) False(falso);
 # str- que significa os valores caracteres ou string, ou seja, são as palavras e números que estão dentro das aspas.
 
-#No Python temos que colocar o tipo da variável, pois se não pôr o tipo da variável,.. 
-#o soma entre dois números serão concatenados, ou seja, se eu digitar o número 3 e o 4 será mostrado na tela o número 34.
-#Deve forma deve-se sempre colocar o tipo da variável para uma soma entre dois números.
+#No Python temos que colocar o tipo da variável, pois se não pôr o tipo da variável, ... 
+#a soma entre dois números serão concatenados, ou seja, se eu digitar o número 3 e o 4 será mostrado na tela o número 34.
+#Deve-se sempre colocar o tipo da variável para uma soma entre dois números.
 
