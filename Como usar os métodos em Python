@@ -1,4 +1,4 @@
-#Olá, aqui eu explico um pouco sobre os métodos em Python.
+#Olá, aqui contém um resumo sobre os métodos em Python.
 
 digalgo = input('Digite algo:')
 print('O tipo desse valor é', type(digalgo))
