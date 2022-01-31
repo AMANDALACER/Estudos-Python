@@ -1,7 +1,7 @@
 # Estudos-Python
 Resumos da Linguagem Python.
 
-# Olá, nesse projeto eu te explico sobre a linguagem Ptython.
+# Olá, aqui é um resumo da linguagem Ptython.
 
 nome = input('Digite o seu nome:')
 
