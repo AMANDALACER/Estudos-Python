@@ -1,4 +1,4 @@
-# Olá, aqui eu explico como usar os Operadores Aritméticos na Linguagem Python.
+# Olá, aqui contém um resumo sobre os Operadores Aritméticos na Linguagem Python.
 
 dig_n1 = float(input('Digite o primeiro número:'))
 dig_n2 = float(input('Digite o segundo número:'))
