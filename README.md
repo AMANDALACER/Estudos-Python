@@ -1,5 +1,5 @@
 # Estudos-Python
-Projeto que explico a Linguagem Python.
+Resumos da Linguagem Python.
 
 # Olá, nesse projeto eu te explico sobre a linguagem Ptython.
 
